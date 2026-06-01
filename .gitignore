@@ -1,0 +1,8 @@
+node_modules
+.next
+.env.local
+.vscode
+.DS_Store
+
+# submissions.json is stored here for demo but not recommended for production (use a DB)
+submissions.json
